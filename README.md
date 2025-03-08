@@ -1,33 +1,45 @@
-# Chaos Theory Simulations
+# Mathematical Visualizations and Programs
 
-This repository contains a collection of Python scripts demonstrating various aspects of chaos theory through mathematical simulations and visualizations.
+This repository contains a collection of Python programs exploring various mathematical concepts, computational problems, and visualizations.
 
-## Contents
+## Project Contents
 
-- `chaos_theory.py` - Simulation of the Lorenz attractor, a classic example of a chaotic system
-- `bifurcation.py` - Logistic map bifurcation diagram visualization
-- `double_pendulum.py` - Chaotic double pendulum simulation
-- `henon_map.py` - Hénon map attractor visualization
-- `julia_set.py` - Julia set fractal visualization
-- `mandelbrot.py` - Mandelbrot set fractal visualization
+### Mathematical Visualizations
+- Fractals (Mandelbrot Set, Julia Set)
+- Chaos Theory visualizations
+- Henon Attractor
+- Bifurcation Diagrams
+
+### Python Programs
+- Chaos Theory simulations
+- Three-body problem
+- Central Limit Theorem demonstrations
+- Game Theory implementations
+- And more...
+
+## Images
+
+The repository includes several generated visualization images:
+- `mandelbrot.png` - Visualization of the Mandelbrot set fractal
+- `julia_set.png` - Visualization of the Julia set fractal
+- `henon_attractor.png` - Visualization of the Henon strange attractor
+- `bifurcation_diagram.png` - Bifurcation diagram for a chaotic system
+
+## Getting Started
+
+1. Clone the repository
+2. Navigate to specific program directories
+3. Run Python scripts according to their documentation
 
 ## Requirements
 
-Required Python packages are listed in `requirements.txt`. Install them using:
+- Python 3.x
+- NumPy, Matplotlib, and other libraries as specified in individual program directories
 
-```bash
-pip install -r requirements.txt
-```
+## License
 
-## Usage
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-Each script can be run independently:
+## Contributing
 
-```bash
-python chaos_theory.py
-```
-
-## References
-
-- Strogatz, S. H. (2018). Nonlinear Dynamics and Chaos. CRC Press.
-- Gleick, J. (2008). Chaos: Making a New Science. Penguin Books. 
+Contributions are welcome! Please feel free to submit a Pull Request. 
