@@ -21,12 +21,16 @@ The Lorenz attractor is one of the most famous examples of a chaotic system, fir
 - Visualizes the characteristic butterfly-shaped attractor in 3D
 - Demonstrates sensitivity to initial conditions
 
+![image](https://github.com/user-attachments/assets/bc3c32d7-a9e0-4cf7-90d0-d6ddfae7508a)
+
 ### 2. Mandelbrot Set (`mandelbrot.py`)
 The Mandelbrot set is one of the most famous fractals in mathematics, exhibiting infinite complexity.
 
 - Generates high-resolution visualizations of the Mandelbrot set
 - Uses customizable color maps for aesthetic rendering
 - Includes functionality to zoom into specific regions of interest
+
+![image](https://github.com/user-attachments/assets/5d57e5b4-1f83-4ecd-aa60-1a584dff2c97)
 
 ### 3. Julia Sets (`julia_set.py`)
 Julia sets are fractals related to the Mandelbrot set, generated from complex functions.
@@ -35,6 +39,8 @@ Julia sets are fractals related to the Mandelbrot set, generated from complex fu
 - Customizable resolution and color mapping
 - Includes optional animation functionality to demonstrate how Julia sets change with varying parameters
 
+![image](https://github.com/user-attachments/assets/a1a91e27-86d5-4256-aeb9-e41a0c7384e6)
+
 ### 4. Hénon Map (`henon_map.py`)
 The Hénon map is a discrete-time dynamical system that exhibits chaotic behavior.
 
@@ -42,12 +48,16 @@ The Hénon map is a discrete-time dynamical system that exhibits chaotic behavio
 - Provides parameters to adjust the system behavior
 - Includes optional functionality to visualize basins of attraction
 
+![image](https://github.com/user-attachments/assets/2cff7fc0-1c0e-4900-b79d-ef8159a082a5)
+
 ### 5. Bifurcation Diagram (`bifurcation.py`)
 Bifurcation diagrams show how a system's behavior changes as a parameter is varied, revealing the route to chaos.
 
 - Visualizes the famous bifurcation diagram of the logistic map
 - Demonstrates period-doubling and the transition to chaos
 - Shows the universal Feigenbaum constant in action
+
+![image](https://github.com/user-attachments/assets/8d38ed5d-6fcd-4d1b-b654-90985cb6edcd)
 
 ### 6. Double Pendulum (`double_pendulum.py`)
 The double pendulum is a simple physical system that exhibits chaotic motion.
